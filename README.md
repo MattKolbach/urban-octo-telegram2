@@ -14,7 +14,7 @@ https://mattkolbach.github.io/urban-octo-telegram2/
 ## Screenshot
 ![screenshot](Horiseonscreenshot.png)
 
-![screenshot](/assets/images/Horiseonscreenshot.png?raw=true "Screenshot")
+![screenshot](./assets/images/Horiseonscreenshot.png)
 
 
 ## Contribution
