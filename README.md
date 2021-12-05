@@ -12,9 +12,8 @@ SEO, Online Reputation Management, Social Media Marketing, Lead Generation, Bran
 https://mattkolbach.github.io/urban-octo-telegram2/
 
 ## Screenshot
-![screenshot](Horiseonscreenshot.png)
 
-![screenshot](./assets/images/Horiseonscreenshot.png)
+![screenshot](./assets/images/Horiseonscreenshot.PNG)
 
 
 ## Contribution
